@@ -11,3 +11,4 @@ for i in range(2,36,3):
 delegate= 0
 for i in range(50):
     iowa_runoff.append[i]
+    iowa_count.append[i]
